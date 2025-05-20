@@ -16,6 +16,7 @@
 - Token-based authentication
 - Form validation using express-validator
 - Clean and secure API structure
+- use of Typescript for type safety
 
 ## ✅ Task 2: Frontend with React & Redux
 
@@ -33,8 +34,6 @@
 
 ---
 
-## 📷 Screenshots (Optional)
-Add 1–2 screenshots of your working app (both frontend and backend tested).
 
 ## 🚀 How to Run the Project
 
